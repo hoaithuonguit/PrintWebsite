@@ -1,9 +1,11 @@
-﻿using System;
+﻿using Data.Dto;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using 
+
+
 
 namespace WebsileBL.Abstract
 {
@@ -15,7 +17,8 @@ namespace WebsileBL.Abstract
                           String _phoneNo,
                           String _email,
                           int _role);
-
+        UserLoginResponseDto Login(String _username,
+                                    String _password);
 
     }
 }

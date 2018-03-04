@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website", "Website\Website.csproj", "{5E0051EA-BE53-46FA-97E5-4C19950BB4E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\..\Data\Data\Data.csproj", "{1B7E534C-099C-4B47-9606-526F4378CEEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{1B7E534C-099C-4B47-9606-526F4378CEEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsileBL", "..\..\BussinessLogic\WebsileBL\WebsileBL.csproj", "{0AA6A2CE-CDA2-4E68-A2CD-FC7E7F5A8DE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsileBL", "WebsileBL\WebsileBL.csproj", "{0AA6A2CE-CDA2-4E68-A2CD-FC7E7F5A8DE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
